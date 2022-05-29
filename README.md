@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👍 Intersted in Vue/React/Next/Nuxt/Deno Projects
 - 🔭 I’m currently working on React/Next development
 - 🐱‍🚀 Blog: https://codehat.vercel.app 
-- 🐱‍🚀 CodesandBox/Demos: https://codesandbox.io/u/manojap 
+- 🐱‍🚀 CodesandBox/Demos: https://codesandbox.io/u/blissfullcode
 - 🌹  Unsplash : https://unsplash.com/@manojap
 - ⚡ Fun fact: World of coding is an infinite loop, you can't escape
 - 🌹  Sitemap Submssion Tool [Nodejs-Express]: http://quickindexing.herokuapp.com/
