@@ -1,4 +1,4 @@
-### I love developing UI....👋
+### All the repos found in this account meant to help learners.
  
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojap&theme=dracula)
  
@@ -16,16 +16,17 @@ Here are some ideas to get you started:
 -->
    
 
-- 👍 Intersted in Vue/React/Next/Nuxt/Deno Projects
-- 🔭 I’m currently working on React/Next development
+- 👍 Intersted in Solidjs/Graphql/Vue/React/Next/Nuxt/Deno Projects
+- 🔭 I’m currently working on Solidjs development
 - 🐱‍🚀 Blog: https://codehat.vercel.app 
 - 🐱‍🚀 CodesandBox/Demos: https://codesandbox.io/u/blissfullcode
-- 🌹  Unsplash : https://unsplash.com/@manojap
+- 📸  Unsplash : https://unsplash.com/@manojap
+- 🔰  https://imgur.com/user/devmnj/posts 
 - ⚡ Fun fact: World of coding is an infinite loop, you can't escape
 - 🌹  Sitemap Submssion Tool [Nodejs-Express]: http://quickindexing.herokuapp.com/
-- 🌹  Pexelsbot [Python] :https://github.com/manojap/pexelsbot
-- 🌹  Unsplashbot [Python] : https://github.com/manojap/unsplashbot
+- 📸  Unsplashbot [Python] : https://github.com/devmnj/unsplashbot
 - 👍 Explore the packages Tab
+- 🚙 Official Repo : https://github.com/manojap
 
 
 
