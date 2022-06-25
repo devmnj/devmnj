@@ -1,4 +1,4 @@
-### All the repos found in this account meant to help learners.
+### All the repos found in this account meant to help the community.
  
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojap&theme=dracula)
  
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🌹  Sitemap Submssion Tool [Nodejs-Express]: http://quickindexing.herokuapp.com/
 - 📸  Unsplashbot [Python] : https://github.com/devmnj/unsplashbot
 - 👍 Explore the packages Tab
-- 🚙 Official Repo : https://github.com/manojap
+- 🚙 Official Repo : https://github.com/manoj-ap
 
 
 
