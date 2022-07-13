@@ -17,7 +17,7 @@ Here are some ideas to get you started:
    
 
 - 👍 Intersted in Svelte/Solidjs/Graphql/Vue/React/Nextjs/Nuxtjs Projects
-- 🔭 I’m currently expiremeting on Svelte development
+- 🔭 I’m currently learning Svelte development
 - 🐱‍🚀 Blog: https://codehat.vercel.app 
 - 🐱‍🚀 CodesandBox/Demos: https://codesandbox.io/u/blissfullcode
 - 📸 Unsplash : https://unsplash.com/@manojap
