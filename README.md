@@ -1,5 +1,5 @@
 ### All the repos found in this account meant to help the community.
- I am passionate about Javscript and UI devevelopment using React and Vue
+ I am passionate about Javscript UI devevelopment and general programming
 <!--
 **manojap/manojap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
