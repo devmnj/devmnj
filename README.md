@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 👍 Explore the packages Tab
 - 🚀 [Blog WP](http://javscriptsu.wordpress.com)  
 - 🚙 Official Repo : https://github.com/manoj-ap
+- 👍 [Youtube](https://www.youtube.com/channel/UCkSwyi4WrPu72919ddzfmPQ) 
 
 
 
