@@ -1,5 +1,5 @@
 ### All the repos found in this account meant to help the community.
- I am passionate about Javscript UI devevelopment and general programming
+ I am passionate about fullstack devevelopment.
 <!--
 **manojap/manojap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
    
 - ✨ Fav. social - [Reddit](https://www.reddit.com/user/wildcat_sera)
-- 👍 Intersted in Svelte/Solidjs/Graphql/Vue/React/Nextjs/Nuxtjs Projects
+- 👍 Intersted in Python/Golang/Svelte/Solidjs/Graphql/Vue/React/Nextjs/Nuxtjs Projects
 - 🔭 I’m currently learning Svelte development
 - 🐱‍🚀 Blog: https://codehat.vercel.app 
 - 🐱‍🚀 CodesandBox/Demos: https://codesandbox.io/u/blissfullcode
