@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🐱‍🚀 Blog: https://codehat.vercel.app 
 - 🐱‍🚀 CodesandBox/Demos: https://codesandbox.io/u/blissfullcode
 - 📸 Unsplash : https://unsplash.com/@manojap
-- 🔰 https://imgur.com/user/devmnj/posts 
+- 🔰 [Featured Gallery](https://www.flickr.com/photos/flowersandmacros/albums/72157711552332141)
 - ⚡ Fun fact: World of coding is an infinite loop, you can't escape
 - 🌹 Sitemap Submssion Tool [Nodejs-Express]: http://quickindexing.herokuapp.com/
 - 📸 Unsplashbot [Python] : https://github.com/devmnj/unsplashbot
