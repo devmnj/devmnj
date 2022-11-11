@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ✨ Fav. social - [Reddit](https://www.reddit.com/user/wildcat_sera)
 - 👍 Intersted in Python/Golang/Svelte/Solidjs/Graphql/Vue/React/Nextjs/Nuxtjs Projects
 - 🔭 I’m currently learning Svelte development
-- 🐱‍🚀 Blog: https://codehat.vercel.app 
+- 🐱‍🚀 Blog:  https://devtalk-js.vercel.app/ 
 - 🐱‍🚀 CodesandBox/Demos: https://codesandbox.io/u/blissfullcode
 - 📸 Unsplash : https://unsplash.com/@manojap
 - 🔰 [Featured Gallery](https://www.flickr.com/photos/flowersandmacros/albums/72157711552332141)
