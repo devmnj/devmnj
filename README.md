@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
    
 - ✨ Fav. social - [Reddit](https://www.reddit.com/user/wildcat_sera)
-- 👍 Intersted in Python/Golang/Svelte/Solidjs/Graphql/Vue/React/Nextjs/Nuxtjs Projects
+- 👍 Intersted in Python/Golang/Svelte/Solidjs/Graphql/Vue/React/Nextjs/Gatsby/Remix/Nuxtjs Projects
 - 🔭 I’m currently learning Svelte development
 - 🐱‍🚀 Blog:  https://devtalk-js.vercel.app/ 
 - 🐱‍🚀 CodesandBox/Demos: https://codesandbox.io/u/blissfullcode
