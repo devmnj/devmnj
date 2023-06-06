@@ -7,9 +7,10 @@ Here are some ideas to get you started:
 -->
    
 - ✨ Fav. social - [Reddit](https://www.reddit.com/user/wildcat_sera)
-- 👍 Intersted in Python/Golang/Svelte/Solidjs/Graphql/Vue/React/Nextjs/Gatsby/Remix/Nuxtjs Projects
-- 🔭 I’m currently learning Svelte development
-- 🐱‍🚀 Blog:  https://devtalk-js.vercel.app/ 
+- 👍 Intersted in Python/Golang/Svelte/Solidjs/Graphql/Vue/React/Nextjs/Gatsby/Remix/Nuxtjs/ML/AI Projects
+- 🔭 I’m currently learning ML development
+- 🐱‍🚀 Blog:  https://devguides.vercel.app/ 
+- 🐱‍🚀 Blog:  https://debugeverything.wordpress.com/ 
 - 🐱‍🚀 CodesandBox/Demos: https://codesandbox.io/u/blissfullcode
 - 📸 Unsplash : https://unsplash.com/@manojap
 - 🔰 [Featured Gallery](https://www.flickr.com/photos/flowersandmacros/albums/72157711552332141)
@@ -17,7 +18,6 @@ Here are some ideas to get you started:
 - 🌹 Sitemap Submssion Tool [Nodejs-Express]: http://quickindexing.herokuapp.com/
 - 📸 Unsplashbot [Python] : https://github.com/devmnj/unsplashbot
 - 👍 Explore the packages Tab
-- 🚀 [Blog WP](http://javscriptsu.wordpress.com)  
 - 🚙 Official Repo : https://github.com/manoj-ap
 - 👍 [Youtube](https://www.youtube.com/channel/UCkSwyi4WrPu72919ddzfmPQ) 
 
