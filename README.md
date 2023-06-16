@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - ✨ Fav. social - [Reddit](https://www.reddit.com/user/wildcat_sera)
 - 👍 Intersted in Python/Golang/Svelte/Solidjs/Graphql/Vue/React/Nextjs/Gatsby/Remix/Nuxtjs/ML/AI Projects
 - 🔭 I’m currently learning ML development
-- 🐱‍🚀 Blog:  https://devguides.vercel.app/ 
-- 🐱‍🚀 Blog:  https://debugeverything.wordpress.com/ 
+- 🐱‍🚀 ML-Py Blog:  https://devmnj.blogspot.app/ 
+- 🐱‍🚀 Blog:  https://devmnj.wordpress.com/ 
 - 🐱‍🚀 CodesandBox/Demos: https://codesandbox.io/u/blissfullcode
 - 📸 Unsplash : https://unsplash.com/@manojap
 - 🔰 [Featured Gallery](https://www.flickr.com/photos/flowersandmacros/albums/72157711552332141)
