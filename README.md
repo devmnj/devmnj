@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🌹 Sitemap Submssion Tool [Nodejs-Express]: http://quickindexing.herokuapp.com/
 - 📸 Unsplashbot [Python] : https://github.com/devmnj/unsplashbot
 - 👍 Explore the packages Tab
-- 🚙 Official Repo : https://github.com/manoj-ap
 - 👍 [Youtube](https://www.youtube.com/channel/UCkSwyi4WrPu72919ddzfmPQ) 
 
 
